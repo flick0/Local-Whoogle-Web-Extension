@@ -12,7 +12,7 @@ If you want use **Whoogle** as support to main search engine do this:
 - add this addon into your browser 
 - agree when browser shows you "Add this extension?"
 - disagree when browser shows "Do you want change your main search engine?" 
-- use keywords like ```@searxng, @searx, @sx``` if you want use **Whoogle** when you make request
+- use keywords like ```@woogle, @wg, @who"``` if you want use **Whoogle** when you make request
 
 # Contributors
 [**Ivan Muzyka**](https://github.com/SeryiBaran) - Whoogle hoster and found icnos
