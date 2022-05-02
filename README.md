@@ -4,4 +4,4 @@ We took the source code of <a href="https://github.com/benbusby/whoogle-search">
 **Whoogle** - a self-hosted, ad-free, privacy-respecting metasearch engine.
 
 # Contributors
-[**Ivan Muzyka**](https://github.com/SeryiBaran)
+[**Ivan Muzyka**](https://github.com/SeryiBaran) - Whoogle hoster and found icnos
