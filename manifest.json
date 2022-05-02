@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Whoogle Search",
+  "version": "1.1",
+  "author": "Erghel, SeryiBaran",
+  "default_locale": "en",
+  "description": "__MSG_extensionDescription__",
+  "icons": {
+    "48": "whoogleicon.png"
+  },
+  "browser_action": {
+    "default_title": "Whoogle"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "64.0"
+    }
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Whoogle",
+      "keyword": "@woogle, @wg, @who",
+      "search_url": "https://whoogle-search.serbanbanan.repl.co/search?q={searchTerms}",
+      "favicon_url": "whoogleicon.png",
+      "suggest_url": "https://whoogle-search.serbanbanan.repl.co/search?q={searchTerms}",
+      "is_default": true
+    }
+  }
+}
