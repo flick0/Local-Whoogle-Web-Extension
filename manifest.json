@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Whoogle Search",
   "version": "1.1",
-  "author": "Erghel, SeryiBaran",
+  "author": "flicko",
   "default_locale": "en",
   "description": "__MSG_extensionDescription__",
   "icons": {
@@ -19,10 +19,10 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "Whoogle",
-      "keyword": "@woogle, @wg, @who",
-      "search_url": "https://whoogle-search.serbanbanan.repl.co/search?q={searchTerms}",
+      "keyword": "@whoogle, @wg, @who, @wgl",
+      "search_url": "http://127.0.0.1:5000/search?q={searchTerms}",
       "favicon_url": "whoogleicon.png",
-      "suggest_url": "https://whoogle-search.serbanbanan.repl.co/search?q={searchTerms}",
+      "suggest_url": "http://127.0.0.1:5000/search?q={searchTerms}",
       "is_default": true
     }
   }
